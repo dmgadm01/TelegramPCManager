@@ -78,7 +78,7 @@
 ### 1️⃣ Клонируй репозиторий
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MyPCBot.git
+git clone https://github.com/dmgadm01/TelegramPCManager.git
 cd MyPCBot
 ```
 
